@@ -18,8 +18,8 @@ Gem::Specification.new do |s|
   s.author   = 'Anirudh Ramachandran'
   s.email    = 'anirudhvr@gmail.com'
   s.homepage = 'http://github.com/oakenshield/hipaarails'
-  s.signing_key = '/home/ubuntu/.ssh/gem-private_key.pem'
-  s.cert_chain = ['/home/ubuntu/.ssh/gem-public_cert.pem']
+  s.signing_key = '/home/mobikasa/.ssh/gem-private_key.pem'
+  s.cert_chain = ['/home/mobikasa/.ssh/gem-public_cert.pem']
 
   s.has_rdoc = false
   s.rdoc_options = ['--line-numbers', '--inline-source', '--main', 'README.rdoc']
